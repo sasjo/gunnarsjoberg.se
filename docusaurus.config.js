@@ -10,7 +10,7 @@ const config = {
 
   // github-pages
   url: 'https://sasjo.github.io',
-  baseUrl: '/gunnarsjoberg.se',
+  baseUrl: '/gunnarsjoberg.se/',
 
   // Own domain
   // url: 'https://gunnarsjoberg.se',
