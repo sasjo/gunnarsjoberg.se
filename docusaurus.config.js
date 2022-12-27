@@ -15,6 +15,7 @@ const config = {
   // GitHub pages deployment config.
   organizationName: 'sasjo',
   projectName: 'gunnarsjoberg.se',
+  trailingSlash: true,
 
   i18n: {
     path: 'i18n',
