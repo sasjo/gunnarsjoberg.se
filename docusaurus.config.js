@@ -7,15 +7,22 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Gunnar Sjöberg',
-  url: 'https://gunnarsjoberg.se',
-  baseUrl: '/',
+
+  // github-pages
+  url: 'https://sasjo.github.io',
+  baseUrl: '/gunnarsjoberg.se',
+
+  // Own domain
+  // url: 'https://gunnarsjoberg.se',
+  // baseUrl: '/',
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // GitHub pages deployment config.
   organizationName: 'sasjo',
   projectName: 'gunnarsjoberg.se',
-  trailingSlash: true,
+  trailingSlash: false,
 
   i18n: {
     path: 'i18n',
