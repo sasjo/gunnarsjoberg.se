@@ -27,7 +27,7 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 ```
-$ GIT_USER=<Your GitHub username> npm run deploy
+USE_SSH=true GIT_USER=sasjo GIT_PASS=<pat-token> npm run deploy
 ```
 
 This command is a convenient way to build the website and push to the `gh-pages` branch.
