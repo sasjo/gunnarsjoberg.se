@@ -1,0 +1,17 @@
+---
+title: "Nästan störst av allt är rädslan"
+slug: nastan-storst-av-allt-ar-radslan
+tags:
+  - label: 'Norrbottens Kuriren, tema Insikt'
+    permalink: norrbottens-kuriren-tema-insikt
+hide_table_of_contents: true
+---
+Rädslan och kärleken binder oss människor samman, de är band som förenar oss från släkte till släkte. Störst av allt är kärleken är ord vi kommer att få höra i kommande tider av vigslar och livslånga löften. Men rädslan är stor den också, och störst av all rädsla är att inte få vara med i gemenskapen. Att inte höra till någon eller några.  
+Rädslan har en väldig drivkraft. Den kan få oss att undvika det vi både vet att vi behöver och längtar efter, den kan skada fast vi inte vill och den tömmer vårt liv på positiv energi. Rädslan att förlora gör att stjärnlaget hamnar sist i tabellen och rädslan att bli övergiven hindrar den älskande från att våga älska.  
+Rädslan att sakna tillhörighet kan driva oss in i vilka destruktiva sammanhang som helst. Det finns en neråtgående spiral från kärlek till fruktan, allt i syfte att åtminstone väcka någon slags känsla hos någon. Tydligast av alla formulerar Hjalmar Söderberg detta i Dr Glas från 1905: ”Man vill bli älskad, i brist därpå beundrad, i brist därpå fruktad, i brist därpå avskydd och föraktad. Man vill ingiva människorna någon slags känsla. Själen ryser inför tomrummet och vill kontakt till vad pris som helst."  
+Älskad, beundrad, fruktad, avskydd eller åtminstone föraktad; bara någon ser mig, bara jag slipper den isande känslan av tomhet i min själ. Priset kan vara högt men kosta vad det kosta vill. Problemet är att bristen på kärlek inte kan mättas med annat än just kärlek. Den firade idolens affischer och den fruktade slagskämpens rykte kan aldrig tillfredsställa vår längtan efter att få vara svag och stark inför en människa som älskar mig för den jag innerst inne är.  
+Både Kuriren och NSD har skrivit om Hells Angels etablering i Norrbotten och mitt hjärta blöder när jag läser om spåren tillbaka till Överkalix, denna vackra pärla mitt i länet. Vad hände på vägen? Hur kommer det sig att så många av männen bakom etableringen har rötter i Överkalix? Kan en bygd forma våldsamma män eller är det dessa våldsamma män som format Överkalix, eller åtminstone dess rykte? Jag vet inte, annat än att under klubbjackan på dessa män ryser själen fortfarande inför tomrummet. Ingen tatuering kan dölja rädslan, inget brott döva längtan efter kontakt.  
+Bästa sättet att lära sig ett språk är att bli förälskad i en person som talar det. Kanske finns det i samma mening en väg ut ur destruktiva relationer men jag tvivlar. Motorcykelmännen har redan funnit något som, i brist på kärlek, inger andra människor en känsla och dövar ekot från det inre tomrummet.  
+Den fullkomliga kärleken fördriver rädslan, skriver Johannes i sitt första brev. Kanske är det så att kärleken måste vara fullkomlig för att driva rädslan på flykt. Vem är i så fall fullkomlig? Barnet, slår det mig när jag skriver dessa ord. Kanske är det därför Jesus säger att vi måste bli som barn. Blicken hos barnet tinar allt fruset och smälter alla hjärtan. Vägen ur vår rädsla gömmer sig i modet att bli sedd; av andra och mig själv. Och i modet att möta blicken och dess vädjan efter närhet och samhörighet.  
+Barnbarnet Hugo är här. Han vinglar fram på sina niomånaders-ben, tas emot av det mjuka gräset och våra öppna famnar. Störst av allt är kärleken tänker jag, när jag möter hans blick och blir till på nytt.  
+/Gunnar Sjöberg

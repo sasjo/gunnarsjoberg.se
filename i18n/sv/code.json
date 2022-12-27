@@ -1,0 +1,14 @@
+{
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} taggade med \"{tagName}\"",
+    "description": "Number of tagged posts"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Visa alla taggar",
+    "description": "Show all tags"
+  },
+  "theme.blog.archive.description": {
+    "message": "Alla texter sedan 1996.",
+    "description": "Archive description"
+  }
+}
