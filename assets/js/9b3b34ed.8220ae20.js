@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgunnarsjoberg_se=self.webpackChunkgunnarsjoberg_se||[]).push([[31216],{50611:n=>{n.exports=JSON.parse('{"label":"Kyrkans Tidning, TV-kr\xf6nikor","permalink":"/gunnarsjoberg.se/taggar/kyrkans-tidning-tv-kronikor","allTagsPath":"/gunnarsjoberg.se/taggar","count":10}')}}]);
