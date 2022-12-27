@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgunnarsjoberg_se=self.webpackChunkgunnarsjoberg_se||[]).push([[89053],{99060:a=>{a.exports=JSON.parse('{"label":"Artiklar","permalink":"/taggar/artiklar","allTagsPath":"/taggar","count":5}')}}]);

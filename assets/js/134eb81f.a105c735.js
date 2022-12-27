@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgunnarsjoberg_se=self.webpackChunkgunnarsjoberg_se||[]).push([[98538],{15546:e=>{e.exports=JSON.parse('{"permalink":"/taggar/norrbottens-kuriren-kultur","page":1,"postsPerPage":10,"totalPages":8,"totalCount":75,"nextPage":"/taggar/norrbottens-kuriren-kultur/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
