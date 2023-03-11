@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgunnarsjoberg_se=self.webpackChunkgunnarsjoberg_se||[]).push([[45628],{79245:e=>{e.exports=JSON.parse('{"permalink":"/gunnarsjoberg.se/page/13","page":13,"postsPerPage":10,"totalPages":36,"totalCount":351,"previousPage":"/gunnarsjoberg.se/page/12","nextPage":"/gunnarsjoberg.se/page/14","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgunnarsjoberg_se=self.webpackChunkgunnarsjoberg_se||[]).push([[55500],{63075:r=>{r.exports=JSON.parse('{"label":"N\xe4ringsliv Norrbotten","permalink":"/gunnarsjoberg.se/taggar/naringsliv-norrbotten","allTagsPath":"/gunnarsjoberg.se/taggar","count":34}')}}]);

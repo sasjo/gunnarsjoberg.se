@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgunnarsjoberg_se=self.webpackChunkgunnarsjoberg_se||[]).push([[32054],{64073:e=>{e.exports=JSON.parse('{"permalink":"/taggar/norrbottens-kuriren-tema-insikt","page":1,"postsPerPage":10,"totalPages":23,"totalCount":227,"nextPage":"/taggar/norrbottens-kuriren-tema-insikt/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
