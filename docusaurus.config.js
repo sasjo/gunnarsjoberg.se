@@ -9,12 +9,12 @@ const config = {
   title: 'Gunnar Sjöberg',
 
   // github-pages
-  url: 'https://sasjo.github.io',
-  baseUrl: '/gunnarsjoberg.se/',
+  // url: 'https://sasjo.github.io',
+  // baseUrl: '/gunnarsjoberg.se/',
 
   // Own domain
-  // url: 'https://gunnarsjoberg.se',
-  // baseUrl: '/',
+  url: 'https://gunnarsjoberg.se',
+  baseUrl: '/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
